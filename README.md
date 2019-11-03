@@ -5,4 +5,6 @@ using namespace std;
  {
      printf("Masud Rana\n");
  }
+ 
+ return 0;
 
